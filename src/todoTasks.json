@@ -1,0 +1,19 @@
+[
+  {
+    "task": "Give dog a bath",
+    "complete": true
+  },
+  {
+    "task": "Do shopping",
+    "complete": false
+  },
+  {
+    "task": "Clean kitchen",
+    "complete": true
+  },
+  {
+    "task": "Take a shawer",
+    "complete": false
+  }
+ 
+]
